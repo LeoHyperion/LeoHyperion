@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m a Product Designer currently working on Wordpress Websites.<br>
-🌱 I’m currently learning PHP to boost my Wordpress skills.
+🔭 I’m a Product Designer working on Wordpress Websites.<br>
+🌱 I’m currently learning PHP to boost my Wordpress skills.<br>
+📫 Check out my works at [unCraftitude.com](https://uncraftitude.com)
 
 <!--
 **LeoHyperion/LeoHyperion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
