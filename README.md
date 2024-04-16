@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m a Product Designer currently working on Wordpress Websites.
+🔭 I’m a Product Designer currently working on Wordpress Websites.<br>
 🌱 I’m currently learning PHP to boost my Wordpress skills.
 
 <!--
