@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m a Product Designer currently working on Wordpress Websites.
+🌱 I’m currently learning PHP to boost my Wordpress skills.
+
 <!--
 **LeoHyperion/LeoHyperion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
